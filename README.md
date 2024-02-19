@@ -1,6 +1,6 @@
-#MonteCarloPi
+**MonteCarloPi**
 
-#Indice:
+**Indice**:
 
 - [introducción](introducción)
   
@@ -8,11 +8,11 @@
   
 - [Uso](Uso)
 
-##introducción
+## introducción
 
 Este programa de Java consiste en un código que se emeplea para la obtención del numero Pi mediante un método conocido como el método de Montecarlo
 
-##instalación
+## instalación
 
 para instalar este programa, primero hay que asegurarse de instalar Java Development kit (JDK).
 
@@ -36,7 +36,7 @@ Para generar documentación en formato HTML:
 
 ```make javadoc```
 
-##Uso
+## Uso
 
 Si quieres ejecutar el programa y obtener el número Pi, de forma aproximada, se debe utilizar el siguiente comando:
 
