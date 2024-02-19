@@ -1,6 +1,7 @@
 #MonteCarloPi
 
 #Indice:
+
 1- [introducción](introducción)
 2- [Instalación](Instalación)
 3- [Uso](Uso)
@@ -15,7 +16,7 @@ para instalar este programa, primero hay que asegurarse de instalar Java Develop
 
 luego debe clonar el siguiente repositorio en su terminal o la computadora en la que lo vaya a realizar:
 
-```git clone 
+```git clone https://github.com/aitoralavaa/practica-1-programacion-2.git
 
 
 
