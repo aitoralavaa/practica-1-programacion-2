@@ -40,7 +40,7 @@ Para generar documentación en formato HTML:
 
 Si quieres ejecutar el programa y obtener el número Pi, de forma aproximada, se debe utilizar el siguiente comando:
 
-```java -jar pi.jar <numero de decimales>
+```java -jar pi.jar <numero de decimales>```
 
 
 
